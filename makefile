@@ -1,3 +1,4 @@
+WIN = i686-w64-mingw32-g++
 CC = g++
 CFLAGS = -c
 LIBS = 
