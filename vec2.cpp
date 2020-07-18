@@ -39,5 +39,5 @@ float vec2::distance(vec2 coord){
 }
 
 void vec2::print_coord(void){
-    std::cout << "coord x,y: " << x << "," << y << "\n";
+    std::cout << "(" << x << "," << y << ")" << "\n";
 }
